@@ -6,6 +6,7 @@ export default function App() {
     <div className="App">
       <h1>Hello CodeSandbox</h1>
       <h2>My first codesanbox app</h2>
+      <p>This is amazing</p>
     </div>
   );
 }
